@@ -13,7 +13,7 @@
 - [Stop "Going Agile"](https://www.youtube.com/watch?v=r2tZmhONN2k&ab_channel=Atlassian) (32m)  
 - [Lean vs Agile vs Design Thinking](https://www.youtube.com/watch?v=_4VPfmtwRac&feature=emb_rel_end&ab_channel=CodingTech) (47m)  
   
-  ### Ideals
+### Ideals
 - [The Five Ideals of DevOps - IT Revolution](https://itrevolution.com/five-ideals-of-devops/) (page)
 - [What DevOps Taught Me About Agile | Scrum.org](https://www.scrum.org/resources/blog/what-devops-taught-me-about-agile) (page)
 - [CI/CD Pipeline: Everything You Need to Know](https://harness.io/blog/ci-cd-pipeline/#h-goal-of-your-ci-cd-pipeline) (page)
